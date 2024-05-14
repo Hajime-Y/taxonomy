@@ -139,8 +139,3 @@ scratch.ipynb
 
 # Ignore config.yaml from the cli
 config.yaml
-
-# 生成のため、一時的にGitの管理外とする
-compositional_skills/
-foundational_skills/
-knowledge/
